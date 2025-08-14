@@ -1,0 +1,15 @@
+---
+title: "About Anahita"
+image: portrait copy.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/anahita-vaidhya/
+---
+
+Anahita Vaidhya is a passionate UCLA student majoring in Cognitive Science with a focus on computing, combining 
+strong technical skills with a keen interest in product management and AI. Anahita thrives at the intersection of 
+technology, business, and human-centered design, bringing a growth mindset and leadership experience to every project 
+she undertakes.

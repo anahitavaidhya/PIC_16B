@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Python for Beginners"
+  navbar:
+    left:
+      - text: "Data Visualization"
+        href: posts/HW1_InteractiveGraphics/
+      - text: "Web Scraping"
+        href: posts/HW2_Scrapy/
+      - text: "Web Development"
+        href: posts/HW3_WebDevelopment/
+      - text: "Heat Diffusion"
+        href: posts/HW4_HeatDiffusion/
+      - text: "Image Classification"
+        href: posts/HW5_ImageClassification/
+      - text: "Text Classification"
+        href: posts/HW6_TextClassification/
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
