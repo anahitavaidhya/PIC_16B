@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/HW6_TextClassification/index.html",
+      "/posts/HW5_ImageClassification/index.html",
+      "/posts/HW4_HeatDiffusion/index.html",
+      "/posts/HW2_Scrapy/index.html",
+      "/posts/HW3_WebDevelopment/index.html",
+      "/posts/HW1_InteractiveGraphics/index.html",
+      "/posts/HW0_PenguinVisualization/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]
